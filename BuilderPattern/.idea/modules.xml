@@ -3,7 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BuilderPattern.iml" filepath="$PROJECT_DIR$/BuilderPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Factory.iml" filepath="$PROJECT_DIR$/../Factory.iml" />
       <module fileurl="file://$PROJECT_DIR$/../LLDAssignment3/LLDAssignment3.iml" filepath="$PROJECT_DIR$/../LLDAssignment3/LLDAssignment3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SimpleFactory.iml" filepath="$PROJECT_DIR$/../SimpleFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Singleton/Singleton.iml" filepath="$PROJECT_DIR$/../Singleton/Singleton.iml" />
     </modules>
   </component>
 </project>
