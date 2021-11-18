@@ -5,6 +5,15 @@ import com.abstractfactory.model.Factory;
 import com.abstractfactory.model.IOSFactory;
 import com.abstractfactory.model.WindowsFactory;
 
+/*
+
+abstract factory is used when we want to create many items using factory methods
+Like produce chairs -- ChairFactory
+Produce tables - TableFactory
+But in simple factory product only one thing --- Different Employee
+
+*/
+
 public class MainApplication {
 
     public static void main(String[] args) {
